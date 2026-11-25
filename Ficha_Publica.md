@@ -49,3 +49,10 @@ Formato de las banderas: `GHOSTGRID{...}`.
   contraseñas, banderas ni la solución del reto (sin *spoilers*).
 - La solución detallada, las credenciales y los valores de referencia se
   entregan por separado en el **dossier privado del creador** (solo para el docente).
+
+## Repositorio completo del proyecto
+
+Código, configuraciones, scripts y notas de despliegue del proyecto, también **sin *spoilers***:
+
+https://github.com/vladibcn69-ux/ghostgrid
+  
